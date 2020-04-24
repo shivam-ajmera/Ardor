@@ -1,5 +1,4 @@
 # Ardor
-Hack The Valley 2020 
 To launch the the project:
 1. Make sure you have the following python modules:
   django
